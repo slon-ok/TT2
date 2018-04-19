@@ -8,7 +8,7 @@ namespace ТТ2 {
     static class Program {
         /// <summary>
         /// Главная точка входа для приложения.
-        /// </summary>
+        /// </summary>///
         [STAThread]
         static void Main() {
             Application.EnableVisualStyles();
